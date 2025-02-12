@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunrise0307
-- 🌱 I’m currently learning C C++ data_struct
+- 🌱 I’m currently learning C C++ java data_struct
 - 📫 How to reach me : 3043895284@qq.com 
 - ⚡ Fun fact: I am struggling to move toward success defined by me.
 
